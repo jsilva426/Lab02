@@ -1,5 +1,7 @@
 #pragma once
 // LinkedList.h
+//Modifeied by jacob Silva
+//COSC 2030
 
 // tom bailey   0740  5 oct 2010
 // Declaration of the List class.
